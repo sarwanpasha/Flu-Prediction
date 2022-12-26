@@ -5,8 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/EasyQL.svg?style=flat)](https://github.com/RK900/Flu-Prediction/blob/master/LICENSE.txt)
 [![Twitter](https://img.shields.io/badge/twitter-@RohanKoodli-blue.svg?style=flat)](http://twitter.com/RohanKoodli)
 
+
 Predicting Future Flu Virus Strains with Machine Learning. 
 These programs predict future influenza virus strains based on previous trends in flu mutations.
+
 
 ### Talks
 Check out my talks at <a href="https://www.youtube.com/watch?v=j325KOyV-hI">PyData</a> and [PyGotham](https://www.youtube.com/watch?v=6lGgIiTAmss).
